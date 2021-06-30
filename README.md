@@ -14,3 +14,7 @@ _Internal version published 2021 June 29_
 - [x] Fish
 - [ ] Fish until the database breaks
 - [ ] :tada:
+
+## Version History
+`Fishbot3.8.py`
+`Fishbot3.6.py`
