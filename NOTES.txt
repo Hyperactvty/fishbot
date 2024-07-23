@@ -1,0 +1,24 @@
+========= !! IMPORTANT !! ========= 
+	When a new database table is added, you 
+	__MUST__ add it to the 'CreateNewUser' 
+	method inside 'c_Database.py'
+
+
+========= Literal Notes =========
+	Balance the fish, PLEASE WE BEG OF YOU
+
+========= To Do =========	
+	Daily Spin -> Start at the same square every time
+
+	Preferences/ Settings -> Save user preferences, maybe in db?
+
+	Moon Phases?
+	Add maybe possible mutations
+
+
+========= Items ========= 	
+	Have set bonuses
+
+	
+========= Regions ========= 
+	Region_Mystical -> Have fairy-like fish maybe
